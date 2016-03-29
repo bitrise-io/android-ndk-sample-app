@@ -7,4 +7,4 @@ Requires:
 * Android SDK: 20
 * Android Build Tools: 20.0.0
 * Android NDK
-* 
+*
